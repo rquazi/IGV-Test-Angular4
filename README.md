@@ -1,6 +1,7 @@
 # IgvTest
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4. This is a very simple project 
+to test the igv.js NPM package using in Angular 4 projects. Still at the beginning level. Not a working version of igv.js in angular project.
 
 ## Development server
 
